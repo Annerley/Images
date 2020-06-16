@@ -1,0 +1,8 @@
+﻿  AbstractImage.cpp
+C:\Users\laput\source\repos\Images2\AbstractImage.cpp(143,12): warning C4244: инициализация: преобразование "double" в "uchar", возможна потеря данных
+C:\Users\laput\source\repos\Images2\AbstractImage.cpp(144,12): warning C4244: инициализация: преобразование "double" в "uchar", возможна потеря данных
+C:\Users\laput\source\repos\Images2\AbstractImage.cpp(145,12): warning C4244: инициализация: преобразование "double" в "uchar", возможна потеря данных
+C:\Users\laput\source\repos\Images2\AbstractImage.cpp(166,13): warning C4244: инициализация: преобразование "double" в "uchar", возможна потеря данных
+C:\Users\laput\source\repos\Images2\AbstractImage.cpp(167,13): warning C4244: инициализация: преобразование "double" в "uchar", возможна потеря данных
+C:\Users\laput\source\repos\Images2\AbstractImage.cpp(168,13): warning C4244: инициализация: преобразование "double" в "uchar", возможна потеря данных
+  Images2.vcxproj -> C:\Users\laput\source\repos\Images2\Debug\Images2.exe
